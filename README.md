@@ -1,8 +1,6 @@
 
 # Project Title: Data Analysis of Los Angeles Crimes Arrest Data and Weather (API)
 
-Team (#4) members (alphabetical order): Akash Vaidya, Melody Liou, Simar Singh, Srinivas Hanumansetty
-
 ## Project Description/Outline: 
 
 01.	Use aggregate crime data from different police precincts in a city to uncover patterns in criminal activity.
